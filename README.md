@@ -17,8 +17,8 @@ Lưu ý : Tool này nhằm mục đích giáo dục, thử nghiệm. Tuyệt đ�
 pkg update && pkg upgrade -y
 pkg install root-repo -y
 pkg install git tsu python wpa-supplicant pixiewps iw openssl -y
-git clone https://github.com/lth1503/Crack-Wifi-1
-cd Crack-Wifi-1
+git clone https://github.com/QuangTa12/Crack-Wifi-Termux.git
+cd Crack-Wifi-Termux
 chmod +x lth.py
 ```
 # Nhập thủ công và lưu ý:
@@ -34,7 +34,7 @@ pkg install root-repo -y
 pkg install git tsu python wpa-supplicant pixiewps iw openssl -y
 ```
 ```bash
-git clone https://github.com/lth1503/Crack-Wifi-1
+git clone https://github.com/QuangTa12/Crack-Wifi-Termux.git
 ```
 ```bash
 cd Crack-Wifi-1
@@ -48,11 +48,11 @@ chmod +x lth.py
 cd
 ```
 ```bash
-sudo rm -rf Crack-Wifi-1
+sudo rm -rf Crack-Wifi-Termux
 ```
 # Lệnh sử dụng
 ```bash
-cd Crack-Wifi-1
+cd Crack-Wifi-Termux
 ```
 ```bash
 sudo python lth.py -i wlan0 -K
@@ -71,10 +71,3 @@ bash lth.sh
 • Màu trắng là <50%
 
 • Màu vàng là 50%
-
-
-
-
-### ❤️ Cảm ơn vì 🌟 và forks
-[![Stargazers repo danh sách cho @anbuinfosec/wipwn](https://reporoster.com/stars/dark/anbuinfosec/wipwn)](https://github.com/anbuinfosec/wipwn/stargazers)
-[![Forkers repo roster for @anbuinfosec/wipwn](https://reporoster.com/forks/dark/anbuinfosec/wipwn)](https://github.com/anbuinfosec/wipwn/network/members)
